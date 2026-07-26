@@ -1,0 +1,6 @@
+{
+  "name": "FlowBite",
+  "description": "Intelligent Restaurant Operations Platform with Live KDS, Automated Inventory, Smart Queue & Gemini AI Predictive Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
